@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="swipe_to_refresh">Swipe to refresh</string>
+
+</resources>
