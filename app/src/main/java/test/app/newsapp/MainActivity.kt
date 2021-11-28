@@ -2,9 +2,7 @@ package test.app.newsapp
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import test.app.newsapp.Store.NewsViewModel
 import test.app.newsapp.fragments.newsline.NewsLineFragment
-import javax.inject.Inject
 
 class MainActivity : AppCompatActivity() {
 

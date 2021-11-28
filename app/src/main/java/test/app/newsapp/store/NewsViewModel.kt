@@ -1,4 +1,4 @@
-package test.app.newsapp.Store
+package test.app.newsapp.store
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
@@ -61,7 +61,11 @@ class NewsViewModel @Inject constructor(
     }
 
     private fun pageUp(){
-        page += 25
+        page += NEWS_COUNT
+    }
+
+    companion object{
+        private const val NEWS_COUNT = 26
     }
 
 }

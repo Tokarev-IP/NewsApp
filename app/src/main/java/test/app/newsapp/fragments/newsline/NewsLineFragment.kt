@@ -13,8 +13,8 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import test.app.newsapp.R
-import test.app.newsapp.Store.NewsState
-import test.app.newsapp.Store.NewsViewModel
+import test.app.newsapp.store.NewsState
+import test.app.newsapp.store.NewsViewModel
 import test.app.newsapp.fragments.news.NewsFragment
 import test.app.newsapp.getComponent
 import javax.inject.Inject

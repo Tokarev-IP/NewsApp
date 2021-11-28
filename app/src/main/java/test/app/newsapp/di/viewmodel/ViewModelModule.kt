@@ -5,7 +5,7 @@ import androidx.lifecycle.ViewModelProvider
 import dagger.Binds
 import dagger.Module
 import dagger.multibindings.IntoMap
-import test.app.newsapp.Store.NewsViewModel
+import test.app.newsapp.store.NewsViewModel
 import javax.inject.Singleton
 
 @Module

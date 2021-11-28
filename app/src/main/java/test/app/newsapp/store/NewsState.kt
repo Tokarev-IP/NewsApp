@@ -1,4 +1,4 @@
-package test.app.newsapp.Store
+package test.app.newsapp.store
 
 import test.app.newsapp.db.NewsData
 

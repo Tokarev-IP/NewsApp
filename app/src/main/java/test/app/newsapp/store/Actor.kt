@@ -1,4 +1,4 @@
-package test.app.newsapp.Store
+package test.app.newsapp.store
 
 import android.util.Log
 import io.reactivex.rxjava3.schedulers.Schedulers
